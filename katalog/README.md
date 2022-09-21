@@ -1,10 +1,10 @@
 Link aplikasi Heroku: https://tugas-2-pbp-nadya.herokuapp.com/katalog/
 
 - Buatlah bagan yang berisi request client ke web aplikasi berbasis Django beserta responnya dan jelaskan pada bagan tersebut kaitan antara urls.py, views.py, models.py, dan berkas html
-    [bagan.jpg](bagan.jpg)
+    * [bagan.jpg](bagan.jpg)
 
 - Jelaskan kenapa menggunakan virtual environment? Apakah kita tetap dapat membuat aplikasi web berbasis Django tanpa menggunakan virtual environment?
-    Virtual environment digunakan agar pengaturan dan package dari aplikasi Django terisolasi dari pengaturan dan package dari hal lain di komputer. Dengan menggunakan virtual environment, modul yang digunakan untuk aplikasi tidak akan terpengaruhi dari perubahan di luar environment. Contohnya, jika kita melakukan update pada modul-modul tersebut di luar environment, modul di dalam environment tidak akan terpengaruh sehingga kita dapat melanjutkan development tanpa error yang disebabkan oleh perubahan version. Membuat aplikasi web berbasis Django tanpa menggunakan virtual environment sebenarnya bisa saja tetapi memungkinkan terjadinya error jika hal yang sudah disebutkan dll terjadi (adanya update modul).
+    * Virtual environment digunakan agar pengaturan dan package dari aplikasi Django terisolasi dari pengaturan dan package dari hal lain di komputer. Dengan menggunakan virtual environment, modul yang digunakan untuk aplikasi tidak akan terpengaruhi dari perubahan di luar environment. Contohnya, jika kita melakukan update pada modul-modul tersebut di luar environment, modul di dalam environment tidak akan terpengaruh sehingga kita dapat melanjutkan development tanpa error yang disebabkan oleh perubahan version. Membuat aplikasi web berbasis Django tanpa menggunakan virtual environment sebenarnya bisa saja tetapi memungkinkan terjadinya error jika hal yang sudah disebutkan dll terjadi (adanya update modul).
 
 - Jelaskan bagaimana cara kamu mengimplementasikan poin 1 sampai dengan 4 di atas.
     1. Membuat sebuah fungsi pada views.py yang dapat melakukan pengambilan data dari model dan dikembalikan ke dalam sebuah HTML.

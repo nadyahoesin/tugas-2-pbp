@@ -1,0 +1,112 @@
+[
+    {
+        "model": "mywatchlist.mywatchlist",
+        "pk": 1,
+        "fields": {
+            "watched": false,
+            "title": "The Little Mermaid",
+            "rating": 3,
+            "release_date": "1989-11-17",
+            "review": "Bagus maybe? gatau gapernah nontoh"
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlist",
+        "pk": 2,
+        "fields": {
+            "watched": true,
+            "title": "Beauty and The Beast",
+            "rating": 4,
+            "release_date": "1991-11-22",
+            "review": "Keren"
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlist",
+        "pk": 3,
+        "fields": {
+            "watched": true,
+            "title": "Mulan",
+            "rating": 5,
+            "release_date": "1998-06-05",
+            "review": "Wow"
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlist",
+        "pk": 4,
+        "fields": {
+            "watched": false,
+            "title": "The Princess and the Frog",
+            "rating": 4,
+            "release_date": "2010-01-06",
+            "review": "Bagus maybe? gatau gapernah nontoh"
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlist",
+        "pk": 5,
+        "fields": {
+            "watched": true,
+            "title": "Pocahontas",
+            "rating": 5,
+            "release_date": "1995-06-23",
+            "review": "Hebat"
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlist",
+        "pk": 6,
+        "fields": {
+            "watched": false,
+            "title": "Cinderella",
+            "rating": 2,
+            "release_date": "1950-03-04",
+            "review": "Bagus maybe? gatau gapernah nontoh"
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlist",
+        "pk": 7,
+        "fields": {
+            "watched": true,
+            "title": "Moana",
+            "rating": 5,
+            "release_date": "2016-11-25",
+            "review": "Seru"
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlist",
+        "pk": 8,
+        "fields": {
+            "watched": true,
+            "title": "Tangled",
+            "rating": 5,
+            "release_date": "2010-11-26",
+            "review": "Spektakuler"
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlist",
+        "pk": 9,
+        "fields": {
+            "watched": true,
+            "title": "Frozen",
+            "rating": 2,
+            "release_date": "2013-11-19",
+            "review": "Lumayan"
+        }
+    },
+    {
+        "model": "mywatchlist.mywatchlist",
+        "pk": 10,
+        "fields": {
+            "watched": false,
+            "title": "Brave",
+            "rating": 1,
+            "release_date": "2012-06-22",
+            "review": "Bagus maybe? gatau gapernah nontoh"
+        }
+    }
+]
